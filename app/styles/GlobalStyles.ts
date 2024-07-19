@@ -1,5 +1,4 @@
 import { createGlobalStyle } from 'styled-components';
-import bullet from '../../public/assets/imgs/bullet.svg';
 import {font} from "@/app/styles/Common";
 import theme from "@/app/styles/theme";
 
@@ -49,6 +48,7 @@ const GlobalStyle = styled.createGlobalStyle`
     
     section {
         margin: 0 20px 20px 20px;
+        padding: 7px;
     }
     
 `

@@ -3,6 +3,10 @@ import theme from "@/app/styles/theme";
 import {font} from "@/app/styles/Common";
 
 export const Button = styled.button`
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:8px;
     border-radius: 32px;
     border: none;
     background-color: ${theme.colors.buttonPrimary};
