@@ -2,7 +2,7 @@
 
 import {Container} from "@/app/components/container/Container";
 import Image from "next/image";
-import mainImage from "../../../assets/imgs/mainPage.svg"
+import mainImage from "../../../../public/assets/imgs/mainPage.svg"
 import {Button} from "@/app/components/button/Button";
 import {S} from './MainSection_Styled'
 

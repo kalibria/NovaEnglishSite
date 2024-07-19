@@ -6,6 +6,7 @@ const theme = {
         colorTextTertiaru: 'rgba(184, 184, 184, 1)',
         buttonPrimary: 'rgba(0, 146, 252, 1)',
         colorBg:'rgba(252, 254, 255, 1)',
+        colorTextNegative: 'rgba(241, 54, 60, 1)'
 
 }
 

@@ -1,7 +1,7 @@
 "use client"
 
 import Image from "next/image";
-import logo from "../../assets/imgs/logo.svg";
+import logo from "../../../public/assets/imgs/logo.svg";
 import s from "./Header.module.css"
 import {Container} from "@/app/components/container/Container";
 import {S} from "./MyHeader_Styled"
