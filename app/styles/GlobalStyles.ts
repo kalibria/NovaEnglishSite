@@ -23,6 +23,10 @@ const GlobalStyle = styled.createGlobalStyle`
         line-height: 1.5;
     }
     
+    section {
+        margin: 0 20px 20px 20px;
+    }
+    
 `
 
 export default GlobalStyle
